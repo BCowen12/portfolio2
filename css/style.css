@@ -1,0 +1,29 @@
+body{
+    background-image: url(../img/dark-honeycomb.png)
+}
+
+
+#port{
+    color: white;
+}
+
+#about{
+    color: white;
+}
+
+#pic{
+    height: 150px;
+    width: 135px;
+    float: left;
+    margin-right: 15px;
+}
+
+#me{
+    color: white;
+}
+
+#about{
+    border-bottom: 2px solid #fed136;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
