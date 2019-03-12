@@ -28,6 +28,8 @@ body{
     padding-bottom: 15px;
 }
 
+/* This is only to show I know how to do it. 
+I like what it looks like on mobile right now. */
 @media only screen and (max-width: 640px){
     footer{
         background-color: #fed136;
