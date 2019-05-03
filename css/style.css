@@ -18,8 +18,17 @@ body{
     margin-right: 15px;
 }
 
+.code{
+    color: black;
+}
+
 #me{
     color: white;
+}
+
+.pImages{
+    height: 270px;
+    width: 350px;
 }
 
 
